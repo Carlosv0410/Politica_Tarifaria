@@ -1,1 +1,1 @@
-# Politica Tarifaria de energia eléctrica
+# Política Tarifaria de energia eléctrica
